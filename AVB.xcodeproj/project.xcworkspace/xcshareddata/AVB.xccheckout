@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C3D86C79-79B5-4863-BD28-CC9ECDEED430</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>60F1679CCB92A84B4F225CC2020CFBC9C8AB846A</key>
+		<string>https://github.com/kostyan5/AVB.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AVB.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>60F1679CCB92A84B4F225CC2020CFBC9C8AB846A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kostyan5/AVB.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>60F1679CCB92A84B4F225CC2020CFBC9C8AB846A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60F1679CCB92A84B4F225CC2020CFBC9C8AB846A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AVB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
